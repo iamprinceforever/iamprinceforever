@@ -6,13 +6,13 @@
 
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Nikhilesh+Reddy;An+Engineering+Student;A+Software+Developer;Full+Stack+Web Developer;DSA+Learner)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Nikhilesh+Reddy;An+Engineering+Student;A+Software+Developer;Competitive+Programmer;DSA+Learner)]()
 
  </div>
  
  <div align="center">
   
- [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=arin-paliwal&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+ [![Profile Visitor Counter](https://visitcount.itsvg.in/api?id=iamprinceforever&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
   
 <br>
   
