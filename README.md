@@ -67,17 +67,12 @@
 
 # 📊 GitHub Stats:
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=arin-paliwal&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/arin-paliwal/arin-paliwal)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamprinceforever&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arin-paliwal&exclude_repo=arin-paliwal.Diabetes-Prediction-System&layout=compact&theme=material-palenight&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&card_width=500&card_height=500)](https://github.com/arin-paliwal/arin-paliwal)
 
 </div>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=arin-paliwal&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+[![](https://github-readme-activity-graph.vercel.app/graph?username=iamprinceforever&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
 <div align="center">
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
  
 </div>
