@@ -6,7 +6,7 @@
 
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Nikhilesh+Reddy;An+Engineering+Student;A+Software+Developer;Full+Stack+Web Developer;DSA+Learner;Competitive+Programmer;)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Nikhilesh+Reddy;An+Engineering+Student;A+Software+Developer;Full+Stack+Web Developer;DSA+Learner)]()
 
  </div>
  
