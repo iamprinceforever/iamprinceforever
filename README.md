@@ -1,6 +1,7 @@
-<div align="center">
-        <a href=""><img src="readme.gif" height="360" /></a>
-</div>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/iamprinceforever07"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 <br><br>
 
