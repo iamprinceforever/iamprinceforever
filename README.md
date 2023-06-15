@@ -70,9 +70,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamprinceforever&theme=highcontrast)](https://git.io/streak-stats)
 
+ [![Github Stats](https://github-readme-stats.vercel.app/api?username=iamprinceforever&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=iamprinceforever&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+[![](https://github-readme-activity-graph.vercel.app/graph?username=iamprinceforever&bg_color=rgb(0,0,139)&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprinceforever&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
