@@ -73,6 +73,8 @@
 </div>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=iamprinceforever&bg_color=292d3e&color=ffffff&line=d89dfc&point=f0f0f0&area=true&hide_border=true)]()
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprinceforever&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
  
  
